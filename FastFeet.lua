@@ -1,6 +1,6 @@
 _addon.name    = 'Fast Feet'
 _addon.author  = 'Batcher of Asura'
-_addon.version = '1.0'
+_addon.version = '1.1'
 _addon.commands = {'FastFeet','fastfeet','FF','ff'}
 
 res = require('resources')
