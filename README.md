@@ -1,5 +1,7 @@
 # FastFeet
- 
+
+NOTE: IF YOU ARE UPGRADING FROM AN OLD VERSION, PLEASE RUN THE "SET" COMMAND AGAIN TO ENABLE THE COMBAT TOGGLE FEATURE OR DELETE YOUR SETTINGS FILE FROM THE DATA FOLDER.
+
 To install, download the files above and drop them in your Windower/Addon folder.
 
 In game, load the addon using the command: //lua l fastfeet 
